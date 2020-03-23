@@ -1,25 +1,9 @@
 # Codewars
-Solutions for <a href="http://www.codewars.com">codewars</a> problems I am not <i>too</i> ashamed to put on github.
+<a href="http://www.codewars.com">Codewars</a>
 
-<a href="https://github.com/Codewars/codewars.com/wiki/About-Codewars">from</a> Codewars wiki:
-<br>
-<b><i>Codewars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice</i></b>
-<br>
-<hr>
-<b><i>[RUS] Codewars это сообщество разработчиков, именуемых "Code Warriors", которые работают над улучшением своих навыков программирования. Это можно сравнить с "программерским додзё" - где разработчики тренируются друг с другом и помогают стать лучше путём практики.</b></i>
-<hr>
+<a href="https://www.codewars.com/users/Sivasankar-tech/badges/large"></a> 
 <br>
 Programming languages are JavaScript and Python.
-<br>
-Also, me not being able into PEP8.
-<br>
-<br>
-<br>
-<a href=https://www.codewars.com/users/TehOrange>My</a> current codewars rank:
-<br>
-<br>
-<img src=https://www.codewars.com/users/TehOrange/badges/large>
-
 <br>
 Kyu digit determines kata's difficulty level as well as user's rank on a website.
 <br>
